@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eikaibaelu.karolkubicki.pl/sitemap.xml
